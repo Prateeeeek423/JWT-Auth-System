@@ -50,8 +50,8 @@ util/        → Helper utilities
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Prateeeeek423/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Prateeeeek423/JWT-Auth-System.git.git
+cd JWT-Auth-System.git
 ```
 
 ### 2. Run the application
